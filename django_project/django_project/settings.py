@@ -39,6 +39,9 @@ INSTALLED_APPS = (
 
 #Third part apps
     'south',
+
+#Mine
+    'myapp',
     
 )
 
